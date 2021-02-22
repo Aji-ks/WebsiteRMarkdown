@@ -1,0 +1,11 @@
+name: "cars"
+output_dir: "docs"
+navbar:
+  title: "cars"
+  left:
+  - text: "judul"
+    href: index.html
+  - text: "isi"
+    href: njajal.html
+output:
+  html_document:
