@@ -1,0 +1,11 @@
+---
+title: "Index"
+author: "Aji Bagas Prakasa"
+date: "2/22/2021"
+output: html_document
+---
+ bajeng angel banget
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
